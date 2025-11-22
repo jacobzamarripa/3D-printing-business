@@ -1,4 +1,96 @@
 # 3D Printing Business Plan
+# Shopping List with Hyperlinks
+
+## Printer & Accessories
+- **Bambu P1S Combo (with AMS)**  
+    [Bambu Lab P1S Combo](https://bambulab.com/en/p1s-combo)
+- **Spare 0.4 mm and 0.6 mm Nozzles**  
+    [Bambu Lab Nozzle Pack](https://bambulab.com/en/store/products/nozzle-pack)
+- **Nozzle Cleaning Needles and Deburring Tool**  
+    [Nozzle Cleaning Needles (Amazon)](https://www.amazon.com/dp/B07Q2M8Y6K)  
+    [Deburring Tool (Amazon)](https://www.amazon.com/dp/B07Q2M8Y6K)
+- **PEI Build Plates or Replacement Sheets**  
+    [Bambu Lab PEI Plate](https://bambulab.com/en/store/products/textured-pei-plate)  
+    [PEI Sheet (Amazon)](https://www.amazon.com/dp/B07X5W5W3F)
+- **Glue Stick or PEI Adhesive**  
+    [Elmer’s Glue Stick (Amazon)](https://www.amazon.com/dp/B00178TVXG)  
+    [PEI Adhesive (Amazon)](https://www.amazon.com/dp/B07X5W5W3F)
+
+## Filament & Storage
+- **Filament Colors (PLA)**
+    - [Yellow PLA (Polymaker)](https://us.polymaker.com/products/polylite-pla-yellow)
+    - [Black PLA (Polymaker)](https://us.polymaker.com/products/polylite-pla-black)
+    - [Red PLA (Polymaker)](https://us.polymaker.com/products/polylite-pla-red)
+    - [White PLA (Polymaker)](https://us.polymaker.com/products/polylite-pla-white)
+    - [Light Green PLA (Polymaker)](https://us.polymaker.com/products/polylite-pla-mint-green)
+    - [Dark Green PLA (Polymaker)](https://us.polymaker.com/products/polylite-pla-dark-green)
+    - [Navy/Dark Blue PLA (Polymaker)](https://us.polymaker.com/products/polylite-pla-navy-blue)
+    - [Cream/Beige PLA (Polymaker)](https://us.polymaker.com/products/polylite-pla-beige)
+    - [Orange PLA (Polymaker)](https://us.polymaker.com/products/polylite-pla-orange)
+    - [Light Blue/Turquoise PLA (Polymaker)](https://us.polymaker.com/products/polylite-pla-turquoise-blue)
+    - [Multi-color Filament Pack (Amazon)](https://www.amazon.com/dp/B07V6J4J2Y)
+- **Airtight Filament Storage Box or Dry Box**  
+    [eSUN Filament Dry Box (Amazon)](https://www.amazon.com/dp/B07ZK34N2J)
+- **Resealable Bags with Silica Gel Packs**  
+    [Resealable Bags (Amazon)](https://www.amazon.com/dp/B07F2Y6J8N)  
+    [Silica Gel Packs (Amazon)](https://www.amazon.com/dp/B01MZ6E5T0)
+- **Storage Organizers**  
+    [Tool Organizer (Amazon)](https://www.amazon.com/dp/B0009F5Y9C)
+
+## Tools & Maintenance
+- **Digital Calipers**  
+    [Digital Calipers (Amazon)](https://www.amazon.com/dp/B01N9QW620)
+- **Flush Cutters, Needle-Nose Pliers, Hex Key Set**  
+    [Flush Cutters (Amazon)](https://www.amazon.com/dp/B01M0EZBYN)  
+    [Needle-Nose Pliers (Amazon)](https://www.amazon.com/dp/B0002KR9QQ)  
+    [Hex Key Set (Amazon)](https://www.amazon.com/dp/B000NPR32E)
+- **Hobby Knife (X-Acto)**  
+    [X-Acto Knife (Amazon)](https://www.amazon.com/dp/B00004Z2UB)
+- **Super Glue Gel**  
+    [Loctite Super Glue Gel (Amazon)](https://www.amazon.com/dp/B003Y49R7G)
+- **Heat Gun**  
+    [Heat Gun (Amazon)](https://www.amazon.com/dp/B00004SAC5)
+- **3D Printer Tool Kit (e.g., Creality 74-piece kit)**  
+    [Creality 3D Printer Tool Kit (Amazon)](https://www.amazon.com/dp/B08L8K4J6T)
+
+## Workspace & Safety
+- **Stable Table or Workbench**  
+    [Workbench (Amazon)](https://www.amazon.com/dp/B07K2H1JZ6)
+- **Surge Protector or Heavy-Duty Power Strip**  
+    [Surge Protector (Amazon)](https://www.amazon.com/dp/B000JEACFK)
+- **Ventilation Setup (Small Exhaust Fan, Window Fan, HEPA/Carbon Filter)**  
+    [Window Fan (Amazon)](https://www.amazon.com/dp/B000065DKJ)  
+    [HEPA Filter (Amazon)](https://www.amazon.com/dp/B07M6Q6G6N)  
+    [Carbon Filter (Amazon)](https://www.amazon.com/dp/B07M6Q6G6N)
+- **Temperature Control (Small Heater, Fan, Portable AC)**  
+    [Small Heater (Amazon)](https://www.amazon.com/dp/B07P2CL6R5)  
+    [Portable Fan (Amazon)](https://www.amazon.com/dp/B01FFWG0I6)  
+    [Portable AC (Amazon)](https://www.amazon.com/dp/B01DLPUWG2)
+- **Safety Glasses**  
+    [Safety Glasses (Amazon)](https://www.amazon.com/dp/B000RKQ1NA)
+- **Nitrile Gloves**  
+    [Nitrile Gloves (Amazon)](https://www.amazon.com/dp/B00H7M6L3S)
+- **First Aid Kit**  
+    [First Aid Kit (Amazon)](https://www.amazon.com/dp/B000069EYA)
+
+## Shipping & Packaging
+- **Poly Mailers or Shipping Boxes**  
+    [Poly Mailers (Amazon)](https://www.amazon.com/dp/B01MZ6E5T0)  
+    [Shipping Boxes (Amazon)](https://www.amazon.com/dp/B01MZ6E5T0)
+- **Bubble Wrap or Packing Paper**  
+    [Bubble Wrap (Amazon)](https://www.amazon.com/dp/B000QWES1U)  
+    [Packing Paper (Amazon)](https://www.amazon.com/dp/B07F2Y6J8N)
+- **Shipping Tape and Thermal Labels**  
+    [Shipping Tape (Amazon)](https://www.amazon.com/dp/B000QWES1U)  
+    [Thermal Labels (Amazon)](https://www.amazon.com/dp/B07F2Y6J8N)
+- **Thank-You Stickers or Cards**  
+    [Thank-You Stickers (Amazon)](https://www.amazon.com/dp/B07V6J4J2Y)  
+    [Thank-You Cards (Amazon)](https://www.amazon.com/dp/B07V6J4J2Y)
+
+## Miscellaneous
+- **MicroSD Card or SD Card**  
+    [MicroSD Card (Amazon)](https://www.amazon.com/dp/B07FCMKK5X)  
+    [SD Card (Amazon)](https://www.amazon.com/dp/B07FCMKK5X)
 
 ## Budget & Purchasing Notes
 
@@ -7,11 +99,11 @@
 ## Timeline & Purchasing Plan (Detailed)
 
 ### 1. Black Friday (Nov 28, 2025)
-- **Action**: Purchase P1S AMS 2 Pro Combo (or base P1S if X1C unavailable).
-- **Order**: Filament colours and essential tools.
-- **Prep**: Clear a workspace in the garage.
+**Action**: Printer purchased (Bambu P1S Combo) from BestBuy on Nov 21, 2025.
+**Expected Delivery**: Tuesday, Nov 25, 2025.
+**Order**: Filament colours and essential tools.
+**Prep**: Clear a workspace in the garage.
 
-### 2. Dec 1 – 10
 - **Tasks**:
     - Unbox and assemble printer.
     - Install AMS.
